@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "First user",
+      "email": "first@email.com",
+      "password": "123456",
+      "id": 1
+    }
+  ],
+  "interests": [
+    {
+      "userId": 1,
+      "name": "Fábula"
+    },
+    {
+      "userId": 1,
+      "name": "Poesia"
+    },
+    {
+      "userId": 1,
+      "name": "Romance"
+    },
+    {
+      "userId": 1,
+      "name": "Crônica"
+    },
+    {
+      "userId": 1,
+      "name": "Biografia"
+    },
+    {
+      "userId": 1,
+      "name": "Geografia"
+    },
+    {
+      "userId": 1,
+      "name": "Conto infantil"
+    }
+  ]
+}
