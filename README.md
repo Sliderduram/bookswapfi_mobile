@@ -13,7 +13,7 @@
 $ git clone
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd bookswapify
+$ cd bookswapify_mobile
 
 # Instale as dependências
 $ npm install
