@@ -21,7 +21,7 @@ Para esse trabalho implementamos a tela de **cadastro**, **login** e a tela de *
 $ git clone git@github.com:Sliderduram/bookswapfi_mobile.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd bookswapfi_mobile
+$ cd bookswapify
 
 # Instale as dependências
 $ npm install
